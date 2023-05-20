@@ -94,7 +94,6 @@ Accuracy Value:
 Data Predicton:
 
 ![Screenshot (235)](https://github.com/VelasiriSreeja/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118344328/c80a4dcc-91e1-4170-95ed-7708f80d02fe)
-```
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
