@@ -80,7 +80,7 @@ Data value Counts()
 
 ![Screenshot (231)](https://github.com/VelasiriSreeja/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118344328/27fff9e4-28ce-4b24-862e-e9419b754cbc)
 
-Data.head() for salafy
+Data.head() for salary
 
 ![Screenshot (232)](https://github.com/VelasiriSreeja/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118344328/d5154e3f-27f1-4bc7-b003-d815bb6cb98f)
 
