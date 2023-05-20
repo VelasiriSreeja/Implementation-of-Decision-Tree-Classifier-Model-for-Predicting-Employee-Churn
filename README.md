@@ -63,7 +63,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ## Output:
 
-Data head()
+Data.head()
 
 ![Screenshot (228)](https://github.com/VelasiriSreeja/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118344328/401af0d5-c662-49ba-8223-f504af4f1e04)
 
